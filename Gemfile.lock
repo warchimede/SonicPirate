@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    osc-ruby (1.1.1)
+    sonic-pi-cli (0.1.1)
+      osc-ruby
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  sonic-pi-cli
+
+RUBY VERSION
+   ruby 2.3.3p222
+
+BUNDLED WITH
+   1.16.1
